@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Caroline!
 👩🏻‍💻 Data Science and Machine Learning Student<br/>
-👩🏻‍🎓 Currently studying a Bachelor's Degree in [Data Science](https://www.universitatcarlemany.com/programas/bachelors/bachelor-online-data-science/) at the Carlemany University, Andorra<br/>
 ⚡ Recently completed the [Data Science & Machine Learning](https://ironhack.com/pt/data-science-machine-learning/remoto) bootcamp at Ironhack<br/>
+👩🏻‍🎓 Currently studying a Bachelor's Degree in [Data Science](https://www.universitatcarlemany.com/programas/bachelors/bachelor-online-data-science/) at the Carlemany University, Andorra<br/>
 💭 Learning about cybersecurity and preparing for the Cisco CCST exam<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
