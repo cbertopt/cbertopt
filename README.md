@@ -11,6 +11,60 @@
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-005F86?style=for-the-badge&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=BeautifulSoup&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-452485?style=for-the-badge&logo=Scrapy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Time Series](https://img.shields.io/badge/Time--Series-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer--Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=mlflow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23D92D2D.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0D?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Trello](https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) ![Kanban](https://img.shields.io/badge/kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-%23D50032.svg?style=for-the-badge&logo=scrum&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Metasploit](https://img.shields.io/badge/metasploit-316192?style=for-the-badge&logo=metasploit&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+## 🌟 **Data Science**
+- **Python**: Main language for data analysis and modeling.
+- **Numpy**: Array manipulation and mathematical operations.
+- **Pandas**: Data manipulation and analysis.
+- **Matplotlib**: Data visualization.
+- **Plotly**: Interactive data visualization.
+- **Statsmodels**: Statistical models and tests.
+- **Scikit-learn**: Machine learning algorithms.
+- **Tableau**: Data visualization and dashboards.
+- **PowerBI**: Business analytics and visualization.
+- **Microsoft Excel**: Data analysis and reporting.
 
+## 🤖 **Machine Learning & Deep Learning**
+- **TensorFlow**: Deep learning model development.
+- **PyTorch**: Machine learning framework.
+- **Keras**: Neural network library.
+- **MLFlow**: Machine learning experiment tracking.
+- **Time-Series**: Time-series modeling.
+- **Computer-Vision**: Image and video processing.
+- **CNN**: Convolutional neural networks for computer vision.
+- **MLOps**: Machine learning operations.
+
+## 🌐 **Web Development & APIs**
+- **Flask**: Framework for web application development.
+- **Streamlit**: Tool for building data apps.
+- **FastAPI**: Framework for fast API development.
+- **API**: API consumption and creation.
+
+## 🗃️ **Databases**
+- **MySQL**: Relational database.
+- **Docker**: Containerization for databases and systems.
+- **Anaconda**: Environment for library management.
+
+## 🛡️ **Cybersecurity**
+- **Linux**: Operating system for security and analysis.
+- **Kali Linux**: Distribution for penetration testing.
+- **Ubuntu**: Open-source operating system.
+- **Metasploit**: Penetration testing platform.
+
+## ⚙️ **Development and General Tools**
+- **Git**: Version control system.
+- **GitHub**: Code repositories.
+- **Visual Studio Code**: IDE for development.
+- **Jupyter**: Notebooks for data science.
+- **Google Colab**: Online notebook environments.
+- **Ruby**: Programming language.
+
+## 📋 **Project Management**
+- **Jira**: Agile project management tool.
+- **Kanban**: Visual project management method.
+- **Trello**: Task management tool.
+- **Notion**: Organization and documentation tool.
+- **Scrum**: Agile methodology.
+
+## 💬 **Communication**
+- **Slack**: Corporate communication tool.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
